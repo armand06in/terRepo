@@ -11,7 +11,7 @@ function Home(){
         return varA * 3 + varB * varC
     }
 
-    return ( <><div>Home</div><p>Hola mundo.</p><button onclick={addItem}></button></>)
+    return ( <><div>Home</div><p>Hola mundo...</p><button onclick={addItem}></button></>)
 }
 
 export default Home
